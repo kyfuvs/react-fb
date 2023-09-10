@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           react-fb (firebase)
+          Add gitHub pages 
         </p>
         <a
           className="App-link"
